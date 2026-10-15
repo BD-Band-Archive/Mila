@@ -8,6 +8,18 @@
 
 ---
 
+## 📑 Discography Index
+
+1. [Fele Asha (2006)](#1-fele-asha-2006)
+
+### 💿 Mixed Albums
+2. [Bonno (বন্য) (2008)](#2-bonno-2008)
+
+---
+
+<a id="1-fele-asha-2006"></a>
+## 1. Fele Asha (2006)
+
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**69**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/69.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/69.flac?download=true)
@@ -35,6 +47,15 @@
 
 ---
 
+<a id="2-bonno-2008"></a>
+## 2. [Bonno (বন্য) (2008)](https://github.com/GhostDog45/Mixed-Albums#14-bonno-2008)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Mila - Shukno Pata**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bonno%20%282008%29/06%20Mila%20-%20Shukno%20Pata.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bonno%20%282008%29/06%20Mila%20-%20Shukno%20Pata.flac?download=true)
+
+---
+
 ### 💾 Git LFS & Downloading Audio
 All audio tracks in this repository are managed via **Git LFS** (Large File Storage).
 - **One-Tap Direct Download:** Click either the track title or the green download button next to any song to instantly save the file to your device.
@@ -48,4 +69,3 @@ All audio tracks in this repository are managed via **Git LFS** (Large File Stor
 
 ### 🙏 Special Thanks & Gratitude
 Heartfelt gratitude to **Shohail Ibne Mahbub (XTR)** for his monumental passion and dedication in keeping Bangladeshi band music alive. Through his archival project [**Bangla CD Covers**](https://banglacdcovers.blogspot.com/), he has painstakingly collected, preserved, and scanned original physical CDs and cassette tapes, ensuring that the legacy, artwork, and history of Bangladesh's rock and band movement remain preserved for generations of music lovers.
-
