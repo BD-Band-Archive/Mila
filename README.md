@@ -59,7 +59,7 @@ Released in 2006 and produced by Fuad Al-Muqtadir, *Fele Asha* was Mila's explos
 
 | | |
 | :---: | :---: |
-| <img src="Fele%20Asha%20%282006%29/Album%20Cover/Fele%20Asha%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Fele%20Asha%20%282006%29/Album%20Cover/folder.jpg" width="300" alt="2. Cover Art" /><br><sub><b>2. Cover Art</b></sub> |
+| <img src="Fele%20Asha%20%282006%29/Album%20Cover/Fele%20Asha%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -96,7 +96,7 @@ Released in 2016, *Uncensored* marked Mila's fiery, unapologetic return to the f
 
 | | |
 | :---: | :---: |
-| <img src="Uncensored%20%282016%29/Album%20Cover/Uncensored%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Uncensored%20%282016%29/Album%20Cover/folder.jpg" width="300" alt="2. Cover Art" /><br><sub><b>2. Cover Art</b></sub> |
+| <img src="Uncensored%20%282016%29/Album%20Cover/Uncensored%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
