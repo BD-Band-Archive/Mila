@@ -2,45 +2,80 @@
 
 [![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/BD-Band-Music) [![Audio Format - Lossless Audio](https://img.shields.io/badge/Audio%20Format-Lossless%20Audio-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20Audio-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
 
-## 🌟 About the Band
+<p align="center">
+  <img src="assets/band_cover.jpg" alt="Mila" width="750" />
+</p>
 
-> **Mila** Bangladeshi music collection with lossless audio and full album packaging artwork.
+## 🌟 About the Artist
+
+> **Mila Islam** (known mononymously as **Mila**) is a trailblazing Bangladeshi pop-rock and folk-fusion singer who revolutionized the country's contemporary urban music scene in the mid-2000s. Collaborating extensively with maestro composer-producer **Fuad Al-Muqtadir**, Mila pioneered a ferocious, groove-heavy fusion of Bengali folk melodies with electronic, pop, and alternative rock arrangements. Her unmistakable powerful raspy vocals, boundary-pushing style, and sensational charisma turned songs like *"Fele Asha"*, *"Chera Paal"*, *"Pora Bashi"*, *"Shukno Pata"*, and *"Ishwar Jane"* into generational cultural sensations, cementing her status as Bangladesh's queen of pop-rock fusion.
 
 ---
 
 ## 📑 Discography Index
 
-1. [Fele Asha (2006)](#1-fele-asha-2006)
+1. [Fele Asha (ফেলে আসা) (2006)](#1-fele-asha-2006)
+2. [Uncensored (আনসেন্সরড) (2016)](#2-uncensored-2016)
 
 ### 💿 Mixed Albums
-2. [Bonno (বন্য) (2008)](#2-bonno-2008)
+3. [Bonno (বন্য) (2008)](#3-bonno-2008)
 
 ---
 
 <a id="1-fele-asha-2006"></a>
-## 1. Fele Asha (2006)
+## 1. Fele Asha (ফেলে আসা) (2006)
+
+- **Artist:** Mila
+- **Release Year:** 2006
+- **Music & Production:** Fuad Al-Muqtadir
+- **Record Label:** Ektaar Music
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Fele%20Asha%20%282006%29/Album%20Cover/Fele%20Asha%20%5BFront%5D.jpg" width="300" alt="Fele Asha Album Cover" />
+</p>
+
+### 📖 About the Album
+Released in 2006 and produced by Fuad Al-Muqtadir, *Fele Asha* was Mila's explosive breakthrough debut album that redefined the Bangladeshi pop-rock landscape. Blending dynamic breakbeats, distorted rock riffs, and soulful pop balladry with rural folk traditions, the record produced epochal hits including the title track *"Fele Asha"*, *"Chera Paal"*, *"Bhool Kore"*, and the infectious folk-fusion groove *"Pora Bashi"*. The album skyrocketed Mila into household stardom and initiated a golden era of modern producer-artist collaborations in Dhaka.
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**69**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/69.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/69.flac?download=true)
-- [**Bhool Kore**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Bhool%20Kore.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Bhool%20Kore.flac?download=true)
-- [**Chera Paal 2**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Chera%20Paal%202.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Chera%20Paal%202.flac?download=true)
-- [**Chera Paal**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Chera%20Paal.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Chera%20Paal.flac?download=true)
-- [**Fele Asha**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Fele%20Asha.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Fele%20Asha.flac?download=true)
-- [**Frndz**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Frndz.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Frndz.flac?download=true)
-- [**Helpless**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Helpless.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Helpless.flac?download=true)
-- [**Mela**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Mela.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Mela.flac?download=true)
-- [**Nirjon Raat**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Nirjon%20Raat.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Nirjon%20Raat.flac?download=true)
-- [**Pora Bashi**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Pora%20Bashi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Pora%20Bashi.flac?download=true)
-- [**Raag**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Raag.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Raag.flac?download=true)
-- [**Tumi Janona**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Tumi%20Janona.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Tumi%20Janona.flac?download=true)
+- [**01. Fele Asha**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Fele%20Asha.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Fele%20Asha.flac?download=true)
+- [**02. Chera Paal**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Chera%20Paal.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Chera%20Paal.flac?download=true)
+- [**03. Bhool Kore**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Bhool%20Kore.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Bhool%20Kore.flac?download=true)
+- [**04. Pora Bashi**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Pora%20Bashi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Pora%20Bashi.flac?download=true)
+- [**05. 69**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/69.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/69.flac?download=true)
+- [**06. Chera Paal 2**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Chera%20Paal%202.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Chera%20Paal%202.flac?download=true)
+- [**07. Frndz**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Frndz.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Frndz.flac?download=true)
+- [**08. Helpless**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Helpless.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Helpless.flac?download=true)
+- [**09. Mela**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Mela.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Mela.flac?download=true)
+- [**10. Nirjon Raat**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Nirjon%20Raat.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Nirjon%20Raat.flac?download=true)
+- [**11. Raag**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Raag.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Raag.flac?download=true)
+- [**12. Tumi Janona**](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Tumi%20Janona.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mila/master/Fele%20Asha%20%282006%29/Tumi%20Janona.flac?download=true)
 
 ---
 
-## 2. Uncensored (2016)
+### 🖼️ Album Artwork
 
-- **Release Year:** 2016
+| | |
+| :---: | :---: |
+| <img src="Fele%20Asha%20%282006%29/Album%20Cover/Fele%20Asha%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Fele%20Asha%20%282006%29/Album%20Cover/folder.jpg" width="300" alt="2. Cover Art" /><br><sub><b>2. Cover Art</b></sub> |
+
+---
+
+<a id="2-uncensored-2016"></a>
+## 2. Uncensored (আনসেন্সরড) (2016)
+
 - **Artist:** Mila
+- **Release Year:** 2016
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Uncensored%20%282016%29/Album%20Cover/Uncensored%20%5BFront%5D.jpg" width="300" alt="Uncensored Album Cover" />
+</p>
+
+### 📖 About the Album
+Released in 2016, *Uncensored* marked Mila's fiery, unapologetic return to the full studio album format with an eclectic mix of electronic dance, hard-hitting pop-rock, and high-energy folk remixes. Showcasing her vocal maturity, daring creative autonomy, and rhythmic intensity, the album features standout tracks such as *"Ishwar Jane"*, *"Tona Tuni"*, *"Anmone"*, and pulsating electronic club interpretations like *"Dhol (Remix)"* and *"Tona Tuni (Remix)"*.
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -57,8 +92,24 @@
 
 ---
 
-<a id="2-bonno-2008"></a>
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Uncensored%20%282016%29/Album%20Cover/Uncensored%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Uncensored%20%282016%29/Album%20Cover/folder.jpg" width="300" alt="2. Cover Art" /><br><sub><b>2. Cover Art</b></sub> |
+
+---
+
+<a id="3-bonno-2008"></a>
 ## 3. [Bonno (বন্য) (2008)](https://github.com/GhostDog45/Mixed-Albums#14-bonno-2008)
+
+- **Album:** Bonno
+- **Release Year:** 2008
+- **Music & Production:** Fuad Al-Muqtadir
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+### 📖 About the Album
+Produced by Fuad Al-Muqtadir in 2008, *Bonno* ("Wild") is widely regarded as one of the most defining mixed compilation albums in Bangladeshi pop history. Mila's electrifying vocal performance on the standout track *"Shukno Pata"* became a nationwide anthem and enduring dancefloor classic.
 
 ### 🎵 Tracklist (One-Tap Download)
 
