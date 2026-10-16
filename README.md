@@ -61,6 +61,12 @@ Released in 2006 and produced by Fuad Al-Muqtadir, *Fele Asha* was Mila's explos
 | :---: | :---: |
 | <img src="Fele%20Asha%20%282006%29/Album%20Cover/Fele%20Asha%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Galibz
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="2-uncensored-2016"></a>
@@ -97,6 +103,12 @@ Released in 2016, *Uncensored* marked Mila's fiery, unapologetic return to the f
 | | |
 | :---: | :---: |
 | <img src="Uncensored%20%282016%29/Album%20Cover/Uncensored%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Bangla Flac Preservation Community
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
