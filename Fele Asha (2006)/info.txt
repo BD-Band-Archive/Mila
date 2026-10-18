@@ -1,0 +1,31 @@
+Album Name: Fele Asha
+Album Type: Solo
+Release Year: 2006
+Genre: Bengali Pop
+Total Songs: 12
+Track List:
+01. Fele Asha
+02. Chera Paal
+03. Bhool Kore
+04. Pora Bashi
+05. 69
+06. Chera Paal 2
+07. Frndz
+08. Helpless
+09. Mela
+10. Nirjon Raat
+11. Raag
+12. Tumi Janona
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 931 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.3 (2019-08-04)
